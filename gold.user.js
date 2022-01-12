@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         NT Gold For Free
+// @name         AWIODJAWOIJDIOAWJD213123
 // @namespace    https://www.theprabhakar.in/
 // @version      1.0
 // @description  Gives you NT Gold look on Nitro Type garage page!
